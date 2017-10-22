@@ -8,7 +8,7 @@ const firebse = window.firebase;
 
 var deck_url       = "bit.ly/reactive2017", 
     last_question  = null,
-    slides_prefix  = "jpegs/",
+    slides_prefix  = "../jpegs/",
     slides         = [ "100.jpg", "110.jpg", "120.jpg", "130.jpg", "140.jpg", "150.jpg", "160.jpg", "170.jpg", "180.jpg", "190.jpg", "200.jpg", "210.jpg", "220.jpg", "230.jpg", "240.jpg", "250.jpg", "260.jpg", "270.jpg", "280.jpg", "290.jpg", "300.jpg", "310.jpg", "320.jpg", "330.jpg", "340.jpg", "350.jpg", "360.jpg", "370.jpg", "380.jpg", "390.jpg", "400.stats.jpg", "410.jpg", "420.jpg", "430.jpg", "440.jpg", "450.jpg", "460.time.jpg", "470.jpg", "480.jpg", "490.jpg", "500.jpg", "510.jpg", "520.jpg", "530.jpg", "540.jpg", "550.jpg", "560.jpg", "580.jpg", "590.jpg", "990.jpg"],
     slides_ratio = 16/9,
     slides_loaded = 0,

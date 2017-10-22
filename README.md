@@ -1,1 +1,1 @@
-http://tonsky.me/2017-10-Reactive/
+http://tonsky.me/2017-10-Reactive/slides/
